@@ -16,7 +16,7 @@
     },
     "selection_filter": {
       "dimensions": true,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": true,
       "lockedItems": false,
@@ -63,7 +63,7 @@
       36,
       40
     ],
-    "visible_layers": "ffcfffb_ffffffff",
+    "visible_layers": "ffeff03_7ffffff8",
     "zone_display_mode": 0
   },
   "meta": {
